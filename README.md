@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Jingqing Dai 👋
 
-<!--
-**jingqingdai2024-a11y/jingqingdai2024-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 Software developer & open-source enthusiast
+- 🌱 Currently exploring new technologies and building useful tools
+- 💬 Ask me about programming, open source, and tech
+- 📍 Based in China
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Languages: Python, JavaScript, TypeScript, Java
+- Tools: Git, Docker, Linux
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jingqingdai2024-a11y&show_icons=true&theme=default)
+
+## Connect
+- 📧 jingqingdai2024@gmail.com
+
+Thanks for visiting! ⭐
